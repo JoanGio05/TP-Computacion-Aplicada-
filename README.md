@@ -1,2 +1,2 @@
 # TP-Computacion-Aplicada-
-#Integrantes: Camilo Lestani Kochen, Joan Giocoli, Thiago Ibarra
+Integrantes: Camilo Lestani Kochen, Joan Giocoli, Thiago Ibarra
